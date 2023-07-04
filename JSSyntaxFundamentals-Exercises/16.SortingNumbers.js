@@ -14,6 +14,7 @@ function sortingNum(arr) {
         }  
     }
 
+<<<<<<< HEAD
     return resultArr;
 =======
     console.log(sortedArr);
