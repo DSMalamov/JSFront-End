@@ -1,7 +1,7 @@
 function pointsValidation(arr) {
   let x1 = arr[0];
-  let x2 = arr[1];
-  let y1 = arr[2];
+  let x2 = arr[2];
+  let y1 = arr[1];
   let y2 = arr[3];
 
   function calcDistace(m1, m2, m3, m4) {
